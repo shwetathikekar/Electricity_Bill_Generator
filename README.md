@@ -1,1 +1,2 @@
 # Electricity_Bill_Generator
+Our project is titled "Electricity Bill Generator" aims to generate electricity bill and you are able to save data to database as well. Manual system that is employed is extremely laborious and quite inadequate. It only made the process more difficult and harder. The aim of our project is to develop a system that is meant to partially computerize the work performed in the electricity board like generate electricity bill and store record of the customer.
